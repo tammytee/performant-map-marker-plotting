@@ -9,4 +9,4 @@ An example application demonstrating a performant approach to plotting a large n
 ```
 $ npm ci
 ```
-You can still use `npm install` in cases the `npm ci` raises system error due to specific platfrom incompatibilities.
+You can still use `npm install` in cases the `npm ci` raises system error due to specific platform incompatibilities.
